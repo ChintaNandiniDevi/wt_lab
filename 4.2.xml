@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<!DOCTYPE bookdetails SYSTEM "book.dtd">
-<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<!DOCTYPE bookdetails SYSTEM "4.2.dtd">
+<?xml-stylesheet type="text/xsl" href="4.2.xsl"?>
 <bookdetails>
 <books>
 <title>Harry potter</title>
