@@ -1,3 +1,13 @@
+<!--4.2) Write an XML file which will display the Book information which includes the
+following:
+	a) Title of the book
+	b) Author Name
+	c) ISBN number
+	d) Publisher name
+	e) Edition
+	f) Price
+Write a Document Type Definition (DTD) to validate the above XML file and
+display the details in a table (to do this use XSL).-->
 <?xml version="1.0"?>
 <!DOCTYPE bookdetails SYSTEM "4.2.dtd">
 <?xml-stylesheet type="text/xsl" href="4.2.xsl"?>
